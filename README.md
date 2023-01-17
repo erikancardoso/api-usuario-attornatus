@@ -20,7 +20,10 @@ Usando Spring boot, crie uma API simples para gerenciar Pessoas. Esta API deve p
       CEP
       Número
       Cidade~
-
+#### Get (listar todos)
+> localhost:8080/usuario/
+#### Put, Delete, Get(listar por Id)
+> localhost:8080/usuario/id
 
 ## Requisitos  
 - [x] Todas as respostas da API devem ser JSON  
