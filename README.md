@@ -7,8 +7,8 @@
 >H2
 >Lombok
 
-## Historia: 
-"Contrua um modelo de Api e mostre um teste de saída de dados"
+## Objetivo: 
+"Contrua um modelo de Api que faça um CRUD"
 
 ## acesso h2
 >
