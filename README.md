@@ -20,10 +20,17 @@ Usando Spring boot, crie uma API simples para gerenciar Pessoas. Esta API deve p
       CEP
       Número
       Cidade~
+### Instruções para utilização no Postman
 #### Get (listar todos)
-> localhost:8080/usuario/
-#### Put, Delete, Get(listar por Id)
+> https://localhost:8080/usuario/
+#### Delete, Get(por Id)
+> https://localhost:8080/usuario/id
+#### Put 
 > localhost:8080/usuario/id
+      }
+      "nome" : "Erika",
+      "dataAniversario" : "2019-09-22T00:00:00Z"      
+      }
 
 ## Requisitos  
 - [x] Todas as respostas da API devem ser JSON  
