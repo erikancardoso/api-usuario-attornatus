@@ -23,15 +23,13 @@ Usando Spring boot, crie uma API simples para gerenciar Pessoas. Esta API deve p
 ### Instruções para utilização no Postman
 #### Get (listar todos)
 > https://localhost:8080/usuario/
-#### Delete, Get(por Id)
+#### Put, Delete, Get(por Id)
 > https://localhost:8080/usuario/id
-#### Put 
-> localhost:8080/usuario/id
+#### Put      
       }
       "nome" : "Erika",
       "dataAniversario" : "2019-09-22T00:00:00Z"      
       }
-
 ## Requisitos  
 - [x] Todas as respostas da API devem ser JSON  
 - [x] Banco de dados H2
