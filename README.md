@@ -15,11 +15,7 @@ Usando Spring boot, crie uma API simples para gerenciar Pessoas. Esta API deve p
 - [x] Editar uma pessoa
 - [x] Consultar uma pessoa
 - [x] Listar pessoas
-- [ ] ~Endereço:
-      Logradouro
-      CEP
-      Número
-      Cidade~
+
 ### Instruções para utilização no Postman
 #### Get (listar todos)
 > https://localhost:8080/usuario/
